@@ -1,2 +1,2 @@
-# zl-jsutils
+# ZL-JsUtils
 My JavaScript utilities.
